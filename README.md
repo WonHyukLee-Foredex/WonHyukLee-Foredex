@@ -1,4 +1,4 @@
-# 👋 Hi, I'm YOUR_USERNAME
+# 👋 Hi, I'm WonHyukLee - Foredex
 
 **Backend & Data Engineer | Web3/Market Data | Trading Analytics**
 
@@ -25,6 +25,5 @@
 ---
 
 ### Contact
-- Email: you@example.com
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Website: https://your-site.example
+- Email: whlee@foredex.io
+- Website: https://fordex.io
